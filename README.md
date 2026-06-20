@@ -5,6 +5,9 @@
 
 ---
 
+![Static Output](outputs/bkt_market_transition.png)
+
+---
 ## What Is This?
 
 The Berezinskii–Kosterlitz–Thouless (BKT) transition is the defining example of a **topological phase transition** — a transition driven not by symmetry breaking, but by the unbinding of topological defects (vortex–antivortex pairs) in a 2D system of continuous phase angles. Below the transition, the system has quasi-long-range order (QLRO); above it, vortices proliferate and screen all correlations. 
